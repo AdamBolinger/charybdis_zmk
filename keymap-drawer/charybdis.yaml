@@ -52,11 +52,11 @@ layers:
   - {t: TAB, h: NUMBERS}
   - SPACE
   - {t: ENTER, h: NAV-FUN}
-  - {t: ENTER, h: NUMBERS}
-  - BACK SPACE
+  - '1'
+  - '2'
   - R CLK
   - L CLK
-  - NAV-FUN
+  - '3'
   NUMBERS:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
