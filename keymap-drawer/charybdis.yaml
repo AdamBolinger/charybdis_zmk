@@ -51,7 +51,7 @@ layers:
   - RSHIFT
   - {t: TAB, h: NUMBERS}
   - SPACE
-  - {t: LEFT GUI, h: NAV-FUN}
+  - {t: ENTER, h: NAV-FUN}
   - {t: ENTER, h: NUMBERS}
   - BACK SPACE
   - R CLK
@@ -222,7 +222,7 @@ layers:
   - RSHIFT
   - {t: TAB, h: MAC-NUM}
   - {t: SPACE, h: Gui+ LEFT ALT}
-  - {t: LEFT GUI, h: MAC-NAV}
+  - {t: ENTER, h: MAC-NAV}
   - {t: ENTER, h: MAC-NUM}
   - {t: BACK SPACE, h: Alt+Ctl+ LEFT GUI}
   - R CLK
